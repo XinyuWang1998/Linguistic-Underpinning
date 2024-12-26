@@ -1,7 +1,7 @@
 # Linguistic-Underpinning
 Some components of this paper were conducted in ORA and R. If you need further guidance, please contact the authors. 
 
-
+The detailed datasheet is presented below. 
 Motivation
 
 1. For what purpose was the dataset created? (Was there a specific task in mind? Was there a specific gap that needed to be filled? Please provide a description.)
